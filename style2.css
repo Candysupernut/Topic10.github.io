@@ -1,0 +1,18 @@
+body{
+	background-image: url("fall.jpg");
+	background-size:cover;
+	color:White;
+	font-style:Bold;
+}
+.text{
+	text-align:right;
+}
+.text1{
+	text-align:left;
+}
+.text2{
+	text-align:right;
+}
+.text3{
+	text-align:left;
+}

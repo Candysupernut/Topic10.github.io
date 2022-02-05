@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Фото</title>
+		<link href="style1.css" rel="stylesheet">
+	</head>
+	<img src="hotyn1.jpg" alt="Hotin" class= "pic1">
+	<img src="hotyn2.jpg" alt="Hotin" class= "pic2">
+	<img src="hotyn3.jpg" alt="Hotin" class= "pic3">
+	<img src="hotyn4.jpg" alt="Hotin" class= "pic4">
+	<img src="hotyn5.jpg" alt="Hotin" class= "pic5">
+	<img src="hotyn6.jpg" alt="Hotin" class= "pic6">
+<body>

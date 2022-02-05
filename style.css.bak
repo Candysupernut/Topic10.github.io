@@ -1,0 +1,27 @@
+ul{
+	float: left; 
+	font-size:40px;
+}
+h1{
+	text-align:center;
+	font-family:Arial;
+	font-style:Italic;
+	color:Violet;
+	font-size:60px;
+}
+body{
+	background-image: url("trees.jpg");
+	background-size:cover;
+}
+.pic1{
+	float:right;
+	width:1000px;
+	height:630px;
+	vertical-align:bottom;
+	border-radius: 50px;
+	
+}
+a:visited{
+color:plum;
+}
+	

@@ -1,0 +1,29 @@
+body{
+	background-image: url("sky.jpeg");
+	background-size:cover;
+}
+.pic1{
+	width:900px;
+	height:630px;
+	margin:10px;
+}
+.pic2{
+	width:900px;
+	height:630px;
+}
+.pic3{
+	width:900px;
+	height:630px;
+}
+.pic4{
+	width:900px;
+	height:630px;
+}
+.pic5{
+	width:900px;
+	height:630px;
+}
+.pic6{
+	width:900px;
+	height:630px;
+}

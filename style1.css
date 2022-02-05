@@ -1,6 +1,34 @@
-.FPT:link{color:purple;}
-.FPT:visited{color:lime;}
-a:link{color:green; text-decoration:none;}
-a:visited{color:red;}
-a:hover{font-weight:bold;}
-a:active{background:yellow;}
+body{
+	background-image: url("sky.jpeg");
+	background-size:cover;
+}
+.pic1{
+	width:900px;
+	height:630px;
+	margin:10px;
+}
+.pic2{
+	width:900px;
+	height:630px;
+	margin:10px;
+}
+.pic3{
+	width:900px;
+	height:630px;
+	margin:10px;
+}
+.pic4{
+	width:900px;
+	height:630px;
+	margin:10px;
+}
+.pic5{
+	width:900px;
+	height:630px;
+	margin:10px;
+}
+.pic6{
+	width:900px;
+	height:630px;
+	margin:10px;
+}
