@@ -1,0 +1,6 @@
+.FPT:link{color:purple;}
+.FPT:visited{color:lime;}
+a:link{color:green; text-decoration:none;}
+a:visited{color:red;}
+a:hover{font-weight:bold;}
+a:active{background:yellow;}
