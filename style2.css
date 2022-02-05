@@ -16,3 +16,10 @@ body{
 .text3{
 	text-align:left;
 }
+ul{
+	float: left; 
+	font-size:40px;
+}
+a:visited{
+color:Plum;
+}

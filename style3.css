@@ -6,3 +6,10 @@ h1{
 	text-align:center;
 	color:Seashell;
 }
+ul{
+	float: left; 
+	font-size:40px;
+}
+a:visited{
+color:Plum;
+}

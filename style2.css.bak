@@ -14,5 +14,9 @@ body{
 	text-align:right;
 }
 .text3{
-	text-align:center;
+	text-align:left;
+}
+ul{
+	float: left; 
+	font-size:40px;
 }

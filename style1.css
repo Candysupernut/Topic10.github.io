@@ -32,3 +32,11 @@ body{
 	height:630px;
 	margin:10px;
 }
+ul{
+	float: left; 
+	font-size:40px;
+	text-align:center;
+}
+a:visited{
+color:Plum;
+}

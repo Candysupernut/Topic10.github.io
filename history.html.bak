@@ -1,11 +1,15 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Історичні будівлі</title>
+        <title>Історія</title>
 		<link href="style2.css" rel="stylesheet">
 	</head>
 <body>
-
+<ul>
+		<li><a href="gallery.html"target="_blank">Фото</a></li>
+		<li><a href="location.html"target="_blank">Розташування</a></li>
+		<li><a href="index.html"target="_blank">Головна</a></li>
+		</ul>
 
 <h1><p>Хотинська фортеця – свідок численних війн та баталій. Протягом століть вона була центром розвитку ремесел і торгівлі, культури та економіки. Ця середньовічна красуня може багато розповісти тому, хто побажає вислухати її…</p>
 

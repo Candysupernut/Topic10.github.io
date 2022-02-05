@@ -10,20 +10,32 @@ body{
 .pic2{
 	width:900px;
 	height:630px;
+	margin:10px;
 }
 .pic3{
 	width:900px;
 	height:630px;
+	margin:10px;
 }
 .pic4{
 	width:900px;
 	height:630px;
+	margin:10px;
 }
 .pic5{
 	width:900px;
 	height:630px;
+	margin:10px;
 }
 .pic6{
 	width:900px;
 	height:630px;
+	margin:10px;
+}
+ul{
+	float: left; 
+	font-size:40px;
+}
+a:visited{
+color:Plum;
 }
